@@ -1,0 +1,131 @@
+/* div 1 with navbar and carousel */
+#carousel{
+    height: 600px;
+    margin: 0% 4%;
+}
+.imgi{
+    height: 600px;
+}
+#div1{
+    background-color: #1b9702;
+    padding: 0% 0% 2%;
+}
+.text1{
+    font-size: 3rem;
+    position: relative;
+    margin-bottom: 10%;
+    margin-right: 15%;
+}
+.text2{
+    font-size: 2.5rem;
+    position: relative;
+    margin-bottom: 10%;
+    margin-left: 30%;
+}
+/* div 2 for photo and about */
+.middle{
+    background-color: rgb(243, 240, 226);
+}
+.tractor{
+    width: 15rem ;
+    height: 15rem;
+    border-radius: 100%;
+    border:5px solid black;
+}
+.item1{
+    margin-right: 10%;
+    float: left;
+}
+.item2{
+    margin-left: 10%;
+    float: right;
+}
+.item3{
+    margin-right: 10%;
+    float: left;
+}
+.mid1{
+    padding: 10% 15%;
+    padding-bottom: 10%;
+}
+.mid1 p{
+    padding: 4% 0% 0%;
+    font-size:1.5rem ;
+}
+.heading{
+    padding-top: 5%;
+    font-style: oblique;
+    font-size: 5rem;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: green;
+}
+.farmer{
+background-color: #1b9702;
+font-size: 1.5rem;
+height: auto;
+overflow: auto;
+}
+.role{
+    height: auto;
+    float: right;
+    padding: 5%;
+}
+.farmer .heading{
+    color: beige;
+    text-decoration-color:rgb(243, 240, 226);
+}
+.rolep{
+  padding: 5%;
+  text-align:justify;
+  color: #faf9f9;
+}
+.buy .heading{
+    text-decoration-color: #1b9702;
+}
+.buy{
+    background-color: rgb(243, 240, 226);
+}
+.v{
+    text-align: center;
+     padding:10%;
+}
+.bc{
+    margin-right:10px ;
+}
+.support{
+    background-color: #1b9702;
+    /* padding-bottom: 10% ; */
+}
+.support .heading{
+    color: rgb(243, 240, 226);
+    text-decoration-color:rgb(243, 240, 226); ;
+}
+.ib{
+    text-align: center;
+    padding:10% 5% 0%;
+}
+.bb{
+    padding-bottom: 5%;
+}
+.fa {  
+    padding: 20px;   
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px; 
+    background-color: black; 
+    border-radius: 100%;
+    color: white;
+  }  
+  .tt{
+      text-align: center;
+  }
+  .re{
+      padding-top: 40px;
+  }
+  .address{
+      text-align: center;
+      padding-top: 20px;
+  }
